@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-tiptap-editor/static/css/main.e6c13ad2.css",
+    "main.js": "/my-tiptap-editor/static/js/main.714fc9c0.js",
+    "static/js/488.a9d020cc.chunk.js": "/my-tiptap-editor/static/js/488.a9d020cc.chunk.js",
+    "index.html": "/my-tiptap-editor/index.html",
+    "main.e6c13ad2.css.map": "/my-tiptap-editor/static/css/main.e6c13ad2.css.map",
+    "main.714fc9c0.js.map": "/my-tiptap-editor/static/js/main.714fc9c0.js.map",
+    "488.a9d020cc.chunk.js.map": "/my-tiptap-editor/static/js/488.a9d020cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.714fc9c0.js"
+  ]
+}
